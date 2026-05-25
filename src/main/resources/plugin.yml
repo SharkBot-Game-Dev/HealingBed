@@ -1,0 +1,8 @@
+name: Healing bed
+description: $description
+version: '${version}'
+
+main: org.shark.healingBed.HealingBed
+api-version: '26.1'
+
+authors: [ neko ]
