@@ -1,6 +1,6 @@
-name: Healing bed
-description: $description
-version: '${version}'
+name: HealingBed
+description: 'ベッドで寝ると回復するようになります。'
+version: '1.0-SNAPSHOT'
 
 main: org.shark.healingBed.HealingBed
 api-version: '26.1'
